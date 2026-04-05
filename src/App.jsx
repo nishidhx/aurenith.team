@@ -60,7 +60,7 @@ const HACKATHONS_DEFAULT = [
     result: "🏆 Winners",
     year: "2024",
     description: "Built an AI-powered platform in 36 hours, winning first place against 200+ teams.",
-    tags: ["AI/ML", "Full Stack", "1st Place"],
+    tags: ["AI/ML", "Full Stack"],
     highlight: true,
   },
   {
