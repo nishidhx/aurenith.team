@@ -58,7 +58,7 @@ const HACKATHONS_DEFAULT = [
     id: 1,
     name: "36-Hour National Hackathon",
     result: "🏆 Winners",
-    year: "2024",
+    year: "2026",
     description: "Built an AI-powered platform in 36 hours, winning first place against 200+ teams.",
     tags: ["AI/ML", "Full Stack"],
     highlight: true,
